@@ -6,3 +6,6 @@ None-linear string can be define with length, like length in 6 will be random 11
 
 # Sample output
 <div><img src="https://github.com/Kasim-An/cosc-4p03/blob/master/sample output/403a2-1.jpg"></div>
+<div><img src="https://github.com/Kasim-An/cosc-4p03/blob/master/sample output/403a2-2.jpg"></div>
+<div><img src="https://github.com/Kasim-An/cosc-4p03/blob/master/sample output/403a2-3.jpg"></div>
+<div><img src="https://github.com/Kasim-An/cosc-4p03/blob/master/sample output/403a2-4.jpg"></div>
